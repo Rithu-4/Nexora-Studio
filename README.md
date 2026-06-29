@@ -1,4 +1,142 @@
-<<<<<<< HEAD
+# Nexsora Studio
+
+A modern and responsive design agency landing page built with **Next.js** and **Tailwind CSS**. This project showcases a clean user interface with smooth navigation, service highlights, portfolio projects, and a functional contact form.
+
+## 🚀 Live Demo
+
+
+
+## 📸 Preview
+
+(Add a screenshot here after deployment)
+
+---
+
+## ✨ Features
+
+- Responsive design for desktop, tablet, and mobile
+- Modern Hero section
+- Services section with image cards
+- Portfolio showcase
+- Contact form with basic validation
+- Smooth scrolling navigation
+- Clean and minimal UI
+- Optimized images using Next.js Image component
+
+---
+
+## 🛠️ Built With
+
+- Next.js
+- React.js
+- Tailwind CSS
+- React Icons
+
+---
+
+## 📁 Project Structure
+
+```
+app/
+components/
+public/
+
+```
+
+---
+
+## 📂 Sections
+
+- Hero
+- Services
+- Portfolio
+- Contact
+- Footer
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/Rithu-4/Nexora-Studio.git
+
+cd Nexora-Studio
+
+npm install
+
+npm run dev
+```
+
+Open http://localhost:3000
+
+---
+
+## 🎯 Learning Outcomes
+
+This project helped strengthen my understanding of:
+
+- Next.js App Router
+- React component architecture
+- Responsive UI development
+- Tailwind CSS styling
+- Image optimization
+- Form validation
+- Git & GitHub workflow
+
+---
+
+## 📬 Contact
+
+GitHub: https://github.com/Rithu-4
+
+LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+
+Email: your-email@example.com
+
+---
+
+## 📄 License
+
+This project is for learning and portfolio purposes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
