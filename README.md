@@ -3,7 +3,7 @@
 A modern and responsive design agency landing page built with **Next.js** and **Tailwind CSS**. This project showcases a clean user interface with smooth navigation, service highlights, portfolio projects, and a functional contact form.
 
 ## 🚀 Live Demo
-
+https://nexora-studio-one-theta.vercel.app/
 
 
 ## 📸 Preview
